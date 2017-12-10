@@ -1,1 +1,1 @@
-# My name is Ali Husnain. I am a studemt of BSCS(first semester). These are codes of my course's assignment.
+# My name is Ali Husnain. I am a studemt of BSCS(first semester). These are codes of my course's assignments.
