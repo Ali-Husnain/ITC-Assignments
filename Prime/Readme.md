@@ -1,0 +1,1 @@
+#This code indicates prime number. It also gives us factors of prime number and largest prime number. 
