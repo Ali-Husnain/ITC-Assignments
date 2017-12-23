@@ -1,1 +1,1 @@
-# It's code; find square-root with guess.
+# It's code to find square-root with guess.
