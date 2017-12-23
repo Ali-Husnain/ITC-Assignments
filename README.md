@@ -1,1 +1,1 @@
-These are codes of my ITC-assignments.
+# These are codes of Introduction-To-Computing-python.
